@@ -281,5 +281,5 @@ It serves as a **practical application of core C programming concepts** for buil
 # 👨‍💻 Author
 
 **Piyush Harish Chaudhari**
-BS (AI & DS)
+
 
